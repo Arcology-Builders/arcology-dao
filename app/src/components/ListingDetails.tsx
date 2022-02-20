@@ -76,7 +76,8 @@ export default function ListingDetails({ data }) {
    return (
       <div>
          <Grid container spacing={2}
-            minHeight='10vh'>
+            minHeight='10vh'
+            marginTop='0.25rem'>
             <Grid item xs={4}
                alignItems="center"
                justifyContent="center">
