@@ -1,6 +1,5 @@
 import React from 'react';
-import styles from './styles/globals.css'
-import { AppBar, Toolbar, IconButton, Typography, Button, Menu, MenuItem, Link } from '@mui/material'
+import { AppBar, Toolbar, IconButton, Menu, MenuItem, Link } from '@mui/material'
 // https://github.com/jcoreio/material-ui-popup-state
 import { AccountCircle, AccountBalanceWallet } from '@mui/icons-material';
 
